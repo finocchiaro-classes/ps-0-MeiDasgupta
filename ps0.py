@@ -1,2 +1,3 @@
-print('Hello world')
-
+print('Hello, Boston College')
+print(7+15)
+print("BC, I think this is the beginning of a beautiful friendship. (Goodbye from Casablanca)")
